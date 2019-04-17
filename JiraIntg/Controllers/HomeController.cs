@@ -17,7 +17,7 @@ namespace JiraIntg.Controllers
 
         public IActionResult About()
         {
-            //message to display add here as string
+            //message to display add here as string value
             ViewData["Message"] = "Your application description page.";
 
             return View();
