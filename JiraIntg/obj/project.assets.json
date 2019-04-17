@@ -11794,23 +11794,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nikhil.mohan\\.nuget\\packages\\": {},
+    "C:\\Users\\eldhose.paul\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Lab\\eldhose\\Jira-Intg2\\JiraIntg\\JiraIntg.csproj",
+      "projectUniqueName": "D:\\RD\\Jira-Intg2\\JiraIntg\\JiraIntg.csproj",
       "projectName": "JiraIntg",
-      "projectPath": "E:\\Lab\\eldhose\\Jira-Intg2\\JiraIntg\\JiraIntg.csproj",
-      "packagesPath": "C:\\Users\\nikhil.mohan\\.nuget\\packages\\",
-      "outputPath": "E:\\Lab\\eldhose\\Jira-Intg2\\JiraIntg\\obj\\",
+      "projectPath": "D:\\RD\\Jira-Intg2\\JiraIntg\\JiraIntg.csproj",
+      "packagesPath": "C:\\Users\\eldhose.paul\\.nuget\\packages\\",
+      "outputPath": "D:\\RD\\Jira-Intg2\\JiraIntg\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\nikhil.mohan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\eldhose.paul\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
