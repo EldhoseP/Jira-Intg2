@@ -17,7 +17,7 @@ namespace JiraIntg.Controllers
 
         public IActionResult About()
         {
-            //message to display here to eldhose pottan
+            //message to display here to eldhose
             ViewData["Message"] = "Your application description page.";
 
             return View();
