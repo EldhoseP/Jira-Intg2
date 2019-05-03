@@ -17,7 +17,7 @@ namespace JiraIntg.Controllers
 
         public IActionResult About()
         {
-            //message to display add here test
+            //message to display add here test integration
             ViewData["Message"] = "Your application description page.";
 
             return View();
